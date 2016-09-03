@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "number": 1,
+      "text": "Wake up",
+      "done": false
+    },
+    {
+    	"number": 2,
+    	"text": "eat breakfast",
+    	"done": false
+    },
+    {
+    	"number": 3,
+    	"text": "go gym",
+    	"done": false
+    }   
+  ]
+}
